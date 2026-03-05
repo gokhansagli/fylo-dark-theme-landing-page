@@ -375,9 +375,6 @@ nav ul li a:hover {
     min-width: 100%;
   }
 
-  #call-to-action {
-    /* width: 100%; */
-  }
   #call-to-action .input-wrapper {
     width: 100%;
     margin-bottom: 20px;
